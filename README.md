@@ -1,28 +1,30 @@
-书单(秋收未完版)
+书单(2019新春版)
 
 ## Java
 
 ### JVM 
  - 深入理解Java虚拟机 ★★★★★
- - 实战Java虚拟机
+ - 实战Java虚拟机 ★★★★★
  - Hotspot实战
  - 自己动手写Java虚拟机
+ 
 
 ### Java进阶
  - Java并发编程的艺术 ★★★★★
  - 深入理解Java7 ★★★★★
- - Java性能权威指南
+ - Java性能权威指南 ★★★★★
  - Java NIO ★★★★★
- - Pro Java7 NIO 2
+ - Pro Java7 NIO 2 ★★★★★
  - 七周七并发模型
  - Java8实战
  - 写给大忙人看的Java8
  - Spring实战
  - Spring技术内幕
- - Netty实战 ★★★★★
  - 亿级流量网站架构核心技术
  - OSGI原理与最佳实践
- 
+ - Netty进阶之路 New
+ - Netty实战 
+ - Netty权威指南 ★★★★★
  
 ## 数据存储
 
@@ -40,6 +42,7 @@
  - ElasticSearch服务器开发 ★★★★★
  - Zookeeper分布式过程协同技术 ★★★★★
  - 从PAXOS到ZOOKEEPER分布式一致性原理与实践
+ - RocketMQ技术内幕 New
  
 ## 其他语言
 
