@@ -31,6 +31,7 @@
 ### Mysql
  - Mysql技术内幕:Innodb存储引擎 ★★★★★
  - Mysql技术内幕:Sql编程
+ - Mysql运维内参 ★★★★★
  
 ### Redis
  - Redis实战
@@ -42,7 +43,7 @@
  - ElasticSearch服务器开发 ★★★★★
  - Zookeeper分布式过程协同技术 ★★★★★
  - 从PAXOS到ZOOKEEPER分布式一致性原理与实践
- - RocketMQ技术内幕 New
+ - RocketMQ技术内幕
  
 ## 其他语言
 
